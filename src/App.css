@@ -1,0 +1,49 @@
+/* .App {
+  text-align: center;
+} */
+
+.block{
+  position: inherit;
+  height: 50px;
+  width: 100%;
+  background-color: rgba(228, 225, 225, 0.348);
+  box-shadow: 2px 4px rgba(40, 36, 36, 0);
+  border: rgb(10, 9, 9) 2px;
+  font-size: xx-large;
+  font-weight: bold;
+  padding: 20px;
+  /* border: 2px solid; */
+  padding-left: 20px;
+}
+
+.searchbox{
+  padding: 20px;
+  padding-left: 20px;
+}
+
+/* Side Navbar CSS */
+/* 
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 650px;
+  width: 20%;
+  background: rgb(126, 168, 241);
+}
+
+ul.links{
+  background-color: brown;
+  vertical-align: 10%;
+  height: 50px;
+  align-items: center;
+  justify-content: space-around;
+  list-style: none;
+}
+
+link{
+  background-color: brown;
+  height: 10%;
+  vertical-align: 50px;
+  text-decoration: none;
+} */
